@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/artish1/node-db4-challenge#readme",
   "dependencies": {
-    "knex": "^0.20.4"
+    "knex": "^0.20.4",
+    "sqlite3": "^4.1.1"
   }
 }
